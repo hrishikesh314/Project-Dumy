@@ -1,2 +1,2 @@
 # Project-Dumy
-this is dumy repo
+This is My Dummy Repo.
